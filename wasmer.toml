@@ -1,0 +1,7 @@
+[package]
+name = "remenberm/cloudflare-dns"
+version = "0.1.0"
+description = "Cloudflare DNS management app"
+
+[build]
+dockerfile = "Dockerfile"
